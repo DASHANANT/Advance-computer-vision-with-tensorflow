@@ -1,4 +1,4 @@
-# Advance-computer-vision-with-tensorflow-
+# Advance-computer-vision-with-tensorflow
 In this Course conducted by coursera
 
 a) Explore image classification, image segmentation, object localization, and object detection. Apply transfer learning to object localization and detection.
